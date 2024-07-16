@@ -3,7 +3,7 @@
 var number = 369;
 console.log(number);
 console.log(typeof number);
-// Task 2
+// Task 2 
 let userName = "Virat";
 console.log(userName);
 console.log(typeof userName);
