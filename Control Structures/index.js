@@ -53,7 +53,7 @@ switch (day) {
   case 6:
     console.log("Friday");
     break;
-  case 7:
+  case 7: 
     console.log("Saturday");
     break;
   default:
