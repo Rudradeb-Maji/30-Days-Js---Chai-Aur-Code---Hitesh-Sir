@@ -1,7 +1,7 @@
 /* Activity 3 : Comparison Operators */
 //Task 8 : Usecase of > <
 let big = 6;
-let small = 2;
+let small =  2;
 console.log(`${big} > ${small} = ${big>small}`);
 console.log(`${big} < ${small} = ${big<small}`);
 
